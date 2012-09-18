@@ -1,0 +1,1 @@
+MD5 algorithm from crypto.js
