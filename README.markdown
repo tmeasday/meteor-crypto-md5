@@ -1,3 +1,8 @@
+# DEPRECATED
+
+Please use https://atmospherejs.com/jparker/crypto-md5
+
+
 MD5 algorithm from crypto.js
 
 Install
